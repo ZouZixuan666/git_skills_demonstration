@@ -8,7 +8,7 @@ point of the exercise is the Git workflow, not the code.
 import argparse
 
 STORE_NAME = "Monash Corner Store"
-OPENING_HOURS = "8am - 8pm"
+OPENING_HOURS = "8am - 666pm"
 
 # Each entry is "product": price (in USD).
 MENU = {
