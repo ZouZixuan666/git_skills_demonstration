@@ -3,7 +3,6 @@ This is a simple repo to be used in git skills demonstrations
 
 # store-demo
 some modification
-A tiny, deliberately trivial "corner store" script used for an in-class
 Git demonstration. There is nothing to learn about the code itself —
 `store.py` just holds a few constants, a `MENU` dict, an `INVENTORY`
 dict, and a couple of small functions.
